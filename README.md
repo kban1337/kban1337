@@ -16,8 +16,11 @@
 <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
-### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,nodejs,laravel,react,nestjs)](https://skillicons.dev)
+### Languages:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,nodejs)](https://skillicons.dev)
+ 
+### Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,nestjs,tailwindcss)](https://skillicons.dev)
  
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,docker)](https://skillicons.dev)
